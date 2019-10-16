@@ -1,2 +1,4 @@
-# start-with-python
-A Git project we work on together
+Start with Python
+=================
+
+A Git project we work on together.
